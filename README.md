@@ -87,11 +87,6 @@ pandas
 numpy
 ```
 
-### Running the Analysis
-```python
-python src/main.py --data_path data/raw --output_path results/
-```
-
 ## 📂 Repository Structure
 ```
 .
