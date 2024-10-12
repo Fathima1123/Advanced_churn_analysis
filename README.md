@@ -1,5 +1,4 @@
-# Advanced Churn Analysis in E-Commerce
-## Harnessing Hybrid Machine Learning and Deep Learning Models
+# Advanced Churn Analysis in E-Commerce Harnessing Hybrid Machine Learning and Deep Learning Models
 
 ## 📋 Table of Contents
 1. [Introduction](#introduction)
